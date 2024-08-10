@@ -59,8 +59,9 @@
     --card-border-color: hsl(0,0%,19%);
 
     /* BUTTON SETTINGS */
-    --button-height: 36px;
-    --button-padding: 0 18px;
+--button-height: 36px;
+--button-padding: 0 18px;
+--button-color: hsl(0, 0%, 25%);
 
     /* POPOUT AND MODAL SETTINGS */
     --popout-color: hsl(0,0%,16%);
